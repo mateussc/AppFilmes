@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void buscarFilmes(View view) {
         String nome = txtNome.getText().toString();
-        Intent intent = new Intent(this, ListarFilmesActivity.class);
+        Intent intent = new Intent(this, ListarHeroisActivity.class);
         intent.putExtra(NOME, nome);
         startActivity(intent);
     }

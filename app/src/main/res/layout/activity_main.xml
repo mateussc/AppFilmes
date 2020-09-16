@@ -10,7 +10,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/busca_filme"
+        android:hint="@string/busca_heroi"
         android:layout_weight="1"
         android:id="@+id/busca_fila"/>
 

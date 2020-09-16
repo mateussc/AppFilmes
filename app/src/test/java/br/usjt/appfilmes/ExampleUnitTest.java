@@ -1,4 +1,4 @@
-package br.usjt.ads20.appfilmes;
+package br.usjt.appfilmes;
 
 import org.junit.Test;
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AppFilmes</string>
-    <string name="busca_filme">Nome do filme</string>
+    <string name="app_name">Heróis da Marvel</string>
+    <string name="busca_heroi">Nome do herói</string>
     <string name="botao_busca">Buscar</string>
 </resources>
